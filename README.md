@@ -1,67 +1,54 @@
 # UAV-Hire
 
 
-# Proje Adı
-
-Kısa bir proje açıklaması ekleyin.
-
 ---
 
 ## İçindekiler
 
 1. [Genel Bakış](#genel-bakış)
-2. [Kurulum](#kurulum)
-3. [Kullanım](#kullanım)
-4. [Sistem Gereksinimleri](#sistem-gereksinimleri)
-5. [Modüller ve Kütüphaneler](#modüller-ve-kütüphaneler)
-6. [Ekran Görüntüleri](#ekran-görüntüleri)
-7. [Katılıma ve Katkıya Davet](#katılıma-ve-katkıya-davet)
-8. [Lisans](#lisans)
+2. [Kullanım](#kullanım)
+3. [Modüller ve Kütüphaneler](#modüller-ve-kütüphaneler)
+4. [Ekran Görüntüleri](#ekran-görüntüleri)
+
 
 ---
 
 ## Genel Bakış
 
-Projenin amacını ve temel özelliklerini açıklayın.
-
----
-
-## Kurulum
-
-Projenin nasıl kurulacağını adım adım açıklayın.
-
----
-
-## Kullanım
-
-Projenin nasıl kullanılacağını açıklayın. Örnek kod parçacıkları ekleyebilirsiniz.
-
----
-
-## Sistem Gereksinimleri
-
-Projenin çalışması için gereken sistem gereksinimlerini belirtin.
-
+Bu proje ödev projesi olarak yapılmıştır.
+Proje ASP.NET MVC (.Net Framework) ve MS Sql veritabanı kullanılarak geliştirilmiştir.
+Ön yüz için hazır template kullanılmıştır.
 ---
 
 ## Modüller ve Kütüphaneler
 
-Kullanılan modüllerin ve kütüphanelerin listesini ekleyin.
+#### Login Modülü : 
+Giriş yap ve Kayıt ol sayfalarına içermektedir.
+Kayıt olunduğunda bilgiler veritabanına şifreli şekilde kaydedilmektedir.
+
+![image](https://github.com/Melikeozdogan/UAV-Hire/assets/89526958/719dc78a-a233-49b8-bd7a-4fee41966fd2)
+
+#### UAV Modülü :
+İHA Ekleme ,Silme , Görüntüleme , Güncelleme işlemlerinin yer aldığı sayfaları içermektedir.
+
+#### Hire Modülü :
+İHA Kiralama, Kiralamayı İptal Etme, Güncelleme , Listeleme işlemlerinin yer aldığı sayfaları içermektedir.
+
+#### Log Modülü: 
+Kullanıcı loglarının kaydedildiği ve görüntülendiği modüldür.
+
 
 ---
 
 ## Ekran Görüntüleri
 
-Projenin ekran görüntülerini ekleyin. Kodunuzun nasıl göründüğünü göstermek için kullanılabilir.
+Login Ekranı : ![image](https://github.com/Melikeozdogan/UAV-Hire/assets/89526958/9c17b5f9-3708-459f-a668-df7051659830)
 
 ---
 
-## Katılıma ve Katkıya Davet
+Register Ekranı : ![image](https://github.com/Melikeozdogan/UAV-Hire/assets/89526958/e0d3351a-9389-42bd-aeab-669f80daa81f)
 
-Proje üzerinde çalışmaya veya iyileştirmelere katkıda bulunmaya davet edin.
+
 
 ---
 
-## Lisans
-
-Projenin lisansını belirtin.
