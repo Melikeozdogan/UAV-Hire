@@ -13,11 +13,11 @@
 ---
 
 ## Genel Bakış
+#### Bu proje ödev projesi olarak yapılmıştır.
+#### Proje ASP.NET MVC (.Net Framework) ve MS Sql veritabanı kullanılarak geliştirilmiştir.
+#### Ön yüz için hazır template kullanılmıştır.
+#### Sistemde 2 Farklı kullanıcı rolü vardır. (Admin ve User)
 
-Bu proje ödev projesi olarak yapılmıştır.
-Proje ASP.NET MVC (.Net Framework) ve MS Sql veritabanı kullanılarak geliştirilmiştir.
-Ön yüz için hazır template kullanılmıştır.
-Sistemde 2 Farklı kullanıcı rolü vardır. (Admin ve User)
 ---
 
 ## Modüller ve Kütüphaneler
