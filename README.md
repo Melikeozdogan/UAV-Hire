@@ -6,9 +6,8 @@
 ## İçindekiler
 
 1. [Genel Bakış](#genel-bakış)
-2. [Kullanım](#kullanım)
-3. [Modüller ve Kütüphaneler](#modüller-ve-kütüphaneler)
-4. [Ekran Görüntüleri](#ekran-görüntüleri)
+2. [Modüller ve Kütüphaneler](#modüller-ve-kütüphaneler)
+3. [Ekran Görüntüleri](#ekran-görüntüleri)
 
 
 ---
@@ -18,6 +17,7 @@
 Bu proje ödev projesi olarak yapılmıştır.
 Proje ASP.NET MVC (.Net Framework) ve MS Sql veritabanı kullanılarak geliştirilmiştir.
 Ön yüz için hazır template kullanılmıştır.
+Sistemde 2 Farklı kullanıcı rolü vardır. (Admin ve User)
 ---
 
 ## Modüller ve Kütüphaneler
@@ -48,7 +48,22 @@ Login Ekranı : ![image](https://github.com/Melikeozdogan/UAV-Hire/assets/895269
 
 Register Ekranı : ![image](https://github.com/Melikeozdogan/UAV-Hire/assets/89526958/e0d3351a-9389-42bd-aeab-669f80daa81f)
 
+---
 
+UAV Ekranı : ![image](https://github.com/Melikeozdogan/UAV-Hire/assets/89526958/63032d6a-f6f7-4e07-8636-b34d09036f2c)
+
+![image](https://github.com/Melikeozdogan/UAV-Hire/assets/89526958/040819de-adc8-49a6-a09a-e3b5f0ff8515)
+
+
+--- 
+
+Hire Ekranı : ![image](https://github.com/Melikeozdogan/UAV-Hire/assets/89526958/f5b8aece-25bd-4be4-ae47-9abb36fae9bd)
+
+![image](https://github.com/Melikeozdogan/UAV-Hire/assets/89526958/f026ebcb-dbe4-4eec-a38a-8d8a029d915a)
 
 ---
+
+Log Ekranı : ![image](https://github.com/Melikeozdogan/UAV-Hire/assets/89526958/e8e80150-336a-487c-9f31-3e752a3d486a)
+
+
 
